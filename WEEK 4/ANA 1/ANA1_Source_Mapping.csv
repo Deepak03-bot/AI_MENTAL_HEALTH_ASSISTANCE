@@ -1,0 +1,6 @@
+KPI Category,Source Column,Keyword Filter
+Contacts KPI,MEASURE_NAME,contact
+Admissions KPI,MEASURE_NAME,inpatient|admitted|hospital
+Beds KPI,MEASURE_NAME,bed|ward
+RTT KPI,MEASURE_NAME,waiting|RTT
+Crisis KPI,MEASURE_NAME,referral|crisis
